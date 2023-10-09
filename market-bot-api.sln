@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "market-bot-api", "market-bot-api\market-bot-api.csproj", "{E3E4CEF6-D707-4015-9D6F-68F906FACDFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3E4CEF6-D707-4015-9D6F-68F906FACDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3E4CEF6-D707-4015-9D6F-68F906FACDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3E4CEF6-D707-4015-9D6F-68F906FACDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3E4CEF6-D707-4015-9D6F-68F906FACDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92C69A80-C3D4-49F5-85C5-C946BD935EB5}
+	EndGlobalSection
+EndGlobal
